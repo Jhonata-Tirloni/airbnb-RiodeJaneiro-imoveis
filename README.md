@@ -12,5 +12,3 @@ do Rio com os olhares focados no AirBNB e suas hospedagems. Aqui você vai encon
   <li>Top 10 maiores bairros para se hospedar;</li>
   <li>Variação de preços por hospedagem</li>
 </ul>
-
-Gostou dessa AED? Deixa um comment! 
